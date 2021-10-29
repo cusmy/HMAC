@@ -15,7 +15,7 @@ Buka Terminal \
 
 # Validasi Hmac File
 
--> python validasi.py \n
+-> python validasi.py \
 -> Masukan Nama File Yang akan dienkripsi #File Harus 1 Folder Dengan Script Python Jika Tidak Maka Progam tidak Akan Berjalan \
 -> Masukan Password \
 -> Masukan HMAC Dari hasil create.py \
