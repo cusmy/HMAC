@@ -11,12 +11,12 @@ Buka Terminal \
 -> python create.py \
 -> Masukan Nama File Yang akan dienkripsi #File Harus 1 Folder Dengan Script Python Jika Tidak Maka Progam tidak Akan Berjalan \
 -> Masukan Password \
--> Lihat Hasil Hmac yang telah dibuat 
+-> Lihat Hasil MAC yang telah dibuat 
 
 # Validasi Hmac File
 
 -> python validasi.py \
 -> Masukan Nama File Yang akan dienkripsi #File Harus 1 Folder Dengan Script Python Jika Tidak Maka Progam tidak Akan Berjalan \
 -> Masukan Password \
--> Masukan HMAC Dari hasil create.py \
+-> Masukan MAC Dari hasil create.py \
 ->Lalu progam akan menentukan apakah file sudah terotentikasi apa belum 
