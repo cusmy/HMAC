@@ -1,22 +1,22 @@
 # HMAC
-Tugas UTS SKJ 1 MALAM
-Nama  : Achmad Nasrul H
-NIM   : 1814321039
+Tugas UTS SKJ 1 MALAM /n
+Nama  : Achmad Nasrul H /n
+NIM   : 1814321039 /n
 
-Tested On Python 3.8
+Tested On Python 3.8 /n
 
-#Create Hmac File.
+# Create Hmac File. 
 
-Buka Terminal
--> python create.py
--> Masukan Nama File Yang akan dienkripsi #File Harus 1 Folder Dengan Script Python Jika Tidak Maka Progam tidak Akan Berjalan
--> Masukan Password
--> Lihat Hasil Hmac yang telah dibuat
+Buka Terminal /n
+-> python create.py /n
+-> Masukan Nama File Yang akan dienkripsi #File Harus 1 Folder Dengan Script Python Jika Tidak Maka Progam tidak Akan Berjalan /n
+-> Masukan Password /n
+-> Lihat Hasil Hmac yang telah dibuat /n
 
-#Validasi Hmac File
+# Validasi Hmac File
 
--> python validasi.py
--> Masukan Nama File Yang akan dienkripsi #File Harus 1 Folder Dengan Script Python Jika Tidak Maka Progam tidak Akan Berjalan
--> Masukan Password
--> Masukan HMAC Dari hasil create.py
-->Lalu progam akan menentukan apakah file sudah terotentikasi apa belum
+-> python validasi.py /n
+-> Masukan Nama File Yang akan dienkripsi #File Harus 1 Folder Dengan Script Python Jika Tidak Maka Progam tidak Akan Berjalan /n
+-> Masukan Password /n
+-> Masukan HMAC Dari hasil create.py /n
+->Lalu progam akan menentukan apakah file sudah terotentikasi apa belum /n
